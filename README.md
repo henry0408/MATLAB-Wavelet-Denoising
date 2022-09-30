@@ -5,4 +5,5 @@ Basic knowledge and practice for using wavelet toolbox in MATLAB to implement 1-
 
 example:
 
-![image](https://github.com/henry0408/screenshots/blob/78419bcf74c5ff78e0ad68ae8625514d58eecaa9/elec3305sa.png)
+![elec3305sa](https://user-images.githubusercontent.com/58734009/193272919-de5e63a0-f101-4dd0-ad8a-af7cde8f4353.png)
+
